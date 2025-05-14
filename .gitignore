@@ -44,3 +44,4 @@ tests/target/
 # Ignore dist/ or release artifacts if packaging CLI
 dist/
 build/
+/keys
