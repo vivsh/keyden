@@ -1,6 +1,6 @@
 # Keyden
 
-**Keyden** is a lightweight, production-grade tool for **managing**, **rotating**, and **retrieving** secret keys.  
+**Keyden** is a lightweight tool for **managing**, **rotating**, and **retrieving** secret keys.  
 It is designed to be both a **fast command-line utility** and a **pure Rust library** — making secure key management simple for applications and developers.
 
 ---
