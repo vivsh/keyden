@@ -1,3 +1,5 @@
+[![Crates.io](https://img.shields.io/crates/v/keyden.svg)](https://crates.io/crates/keyden)
+
 # Keyden
 
 **Keyden** is a lightweight tool for **managing**, **rotating**, and **retrieving** secret keys.  

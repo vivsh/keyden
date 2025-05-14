@@ -1,6 +1,6 @@
 [package]
 name = "keyden"
-version = "0.1.6"
+version = "0.1.7"
 edition = "2024"
 description = "Keyden: a simple CLI and library for managing, rotating, and generating secret keys safely."
 license = "MIT OR Apache-2.0"
