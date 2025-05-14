@@ -1,0 +1,46 @@
+# Ignore target directory (compiled output)
+target/
+
+# Ignore Cargo.lock for libraries (keep for binaries)
+# (If Keyden is mostly a library, you can ignore Cargo.lock)
+Cargo.lock
+
+# Ignore IDE and editor temporary files
+*.swp
+*.swo
+*.tmp
+*.bak
+*.DS_Store
+
+# VSCode settings (optional)
+.vscode/
+
+# IntelliJ / CLion / RustRover / other JetBrains IDEs
+.idea/
+
+# Backup files
+*~
+
+# GitHub Codespaces
+.devcontainer/
+
+# Node modules if frontend added later (optional)
+node_modules/
+
+# Ignore coverage tools
+coverage/
+*.profraw
+*.profdata
+
+# Ignore generated documentation
+/target/doc/
+
+# Ignore examples compilation output (if examples/ is added later)
+examples/target/
+
+# Ignore tests compilation output (if tests/ is added later)
+tests/target/
+
+# Ignore dist/ or release artifacts if packaging CLI
+dist/
+build/
